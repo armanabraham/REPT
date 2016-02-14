@@ -1,0 +1,31 @@
+Rapid Estimation of Phosphene Threshold (REPT)
+----------------------------------------------
+
+version 1.4, 20 Jan 2011
+----
+* Major: Introduced "Pulse Delay" parameter on GUI. This controls the delay between the pulses. 
+         Before it was set to be 1 sec + pulse adjustment time + time for participant to respond (average 2 sec). 
+		 Now you can specify the delay manually
+		 
+version 1.3, 20 Jan 2011
+----
+* Minor: Decreased duration of presenting "Invalid Key Pressed" to prevent crashing the program
+
+version 1.3, 17 August 2010
+----
+* Implemented saving each trial responses, thresholds and procedure duration in an output file
+* Specifying participant's initials (or name) which serves as a file name. Data are saved in the current directory. 
+* Simplified the user interface by excluding staircase parameters 
+
+version 1.2, 25 July 2010
+----
+* Changed power level list to start from 1 (instead of 0)
+* Changed initial power level to start from 40% instead of 0
+
+version 1.1, 08 June 2010
+----
+* Added estimation of 50% threshold (by default estimated threshold is 60%, which is at the point of subjective equality when using the Weibull function)
+
+version 1.0, 12 April 2010
+----
+* Initial release
