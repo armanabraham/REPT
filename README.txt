@@ -1,7 +1,9 @@
 01 Sep 2010, Arman
 -------------------
 REPT (Rapid Estimation of Phosphene Thresholds) uses a Bayesian adaptive staircase to automatically estimate phosphene thresholds. REPT uses Rapid2 Matlab toolbox to programmatically vary the pulse intensity of Magstim Rapid2 stimulator via a serial connection. See installation instructions below. 
-For more information about REPT and how to cite it, please visit: http://www.psych.usyd.edu.au/tmslab/rapid2andrept.html
+Citation: Abrahamyan, A., Clifford, C. W. G., Ruzzoli, M., Arabzadeh, E., & Harris, J. A. (2011). Accurate and Rapid Estimation of Phosphene Thresholds (REPT). PLoS ONE, 6(7), e22342. http://doi.org/10.1371/journal.pone.0022342
+
+For more information about REPT please visit: http://www.psych.usyd.edu.au/tmslab/rapid2andrept.html
 
 Installation Instructions: 
 --------------------------
