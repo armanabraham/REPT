@@ -8,7 +8,7 @@ For more information about REPT please visit: http://www.psych.usyd.edu.au/tmsla
 Installation Instructions: 
 --------------------------
 1. Download and install Rapid2 toolbox from https://github.com/armanabraham/Rapid2
-2. Download and install Psychtoolbox (version 3 and above) from http://psychtoolbox.org/wikka.php?wakka=FencsikPsychtoolboxDownload
+2. Download and install Psychtoolbox (version 3 and above) from http://psychtoolbox.org
 3. Install REPT into directory called 'REPT' on your computer and add it to you Matlab path
 
 Usage Instructions
